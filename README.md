@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/RankracerBR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RankracerBR&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RankracerBR&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RankracerBR&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RankracerBR&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="rankracerbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="rankracerbr-c++" height="30" width="40" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12984007/c-plus-plus-program-logo-image.png">
   
   <img align="center" alt="Rank-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rank-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
+  <img align="right" alt="Rank-pic" height="150"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
 </div>
   
   ##
@@ -24,4 +24,5 @@
  
   ![Snake animation](https://github.com/RankracerBR/RankracerBR/blob/output/github-contribution-grid-snake.svg)
  
+
 </div>
