@@ -1,4 +1,4 @@
-## Olá! Sou Augusto Pontes. Desenvolvedor de software em andamento...💡
+## Olá! Sou Augusto Pontes. Desenvolvedor back-end em andamento💡
 
 <div align="center">
   <a href="https://github.com/RankracerBR">
