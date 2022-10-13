@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3781C8&width=435&lines=Ol%C3%A1!+ Sou+Augusto+Pontes+;Desenvolvedor+back-end+%F0%9F%92%A1"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3781C8&width=435&lines=Ol%C3%A1!+Sou+Augusto+Pontes+;Desenvolvedor+back-end+%F0%9F%92%A1"(https://git.io/typing-svg)>
  </p>
 
 <div align="center">
