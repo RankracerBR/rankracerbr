@@ -11,8 +11,8 @@
   <img align="center" alt="rankracerbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rankracerbr-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://cdn.discordapp.com/attachments/783795992951652353/1006595555645980773/gffhgf.png">
-  <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
-  <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
+   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
+   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
        
   <img align="right" alt="Rank-pic" height="150"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
 </div>
