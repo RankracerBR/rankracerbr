@@ -14,8 +14,7 @@
   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
   <img align="center" alt="rankracerbr-c++" height="35" width="39" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
   <img align="center" alt="rankracerbr-c++" height="40" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
-  <img aling="center" alt="rankracerbr-c++" height= "15" width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024">
-    
+  <img aling="center" alt="rankracerbr-c++" height= "25" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024">
   <img align="right" alt="Rank-pic" height="150"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
 </div>
   
