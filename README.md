@@ -8,9 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RankracerBR&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="rankracerbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rankracerbr-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://cdn.discordapp.com/attachments/783795992951652353/1006595555645980773/gffhgf.png">
+  <img align="center" alt="rankracerbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
   <img align="center" alt="rankracerbr-c++" height="35" width="39" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
   <img align="center" alt="rankracerbr-c++" height="40" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
