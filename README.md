@@ -3,7 +3,7 @@
 ![giphy](https://user-images.githubusercontent.com/101043200/234490864-f80f887d-007c-47a2-90e5-5e9d3ede7b6e.gif)
 
 
-<p align="center"> 
+<p> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3781C8&width=435&lines=Ol%C3%A1!+Sou+Augusto+Pontes+;Desenvolvedor+Full-Stack+%F0%9F%92%A1"(https://git.io/typing-svg)>
     <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A6B311&width=435&lines=Hello!++I'm+Augusto+Pontes;Full-Stack+Developer+%F0%9F%92%AB" alt="Typing SVG"(https://git.io/typing-svg)>
  </p>
