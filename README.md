@@ -1,3 +1,4 @@
+<hr />
 <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
 
 ![giphy](https://user-images.githubusercontent.com/101043200/234490864-f80f887d-007c-47a2-90e5-5e9d3ede7b6e.gif)
@@ -8,11 +9,16 @@
     <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A6B311&width=435&lines=Hello!++I'm+Augusto+Pontes;Full-Stack+Developer+%F0%9F%92%AB" alt="Typing SVG"(https://git.io/typing-svg)>
  </p>
 
+<hr />
+
 <div align="center">
   <a href="https://github.com/RankracerBR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RankracerBR&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RankracerBR&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
+
+<hr />
+
 <div style="display: inline_block"><br>
   <img align="center" alt="rankracerbr-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://cdn.discordapp.com/attachments/783795992951652353/1006595555645980773/gffhgf.png">
@@ -37,4 +43,5 @@
 <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
 
 </div>
- 
+
+<hr />
