@@ -20,7 +20,7 @@
 <hr />
 
 <div style="display: inline_block"><br>
-   <h2>Linguagens e Tecnologias: </h2>
+  <h2>Linguagens e Tecnologias: </h2>
   <img align="center" alt="rankracerbr-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://cdn.discordapp.com/attachments/783795992951652353/1006595555645980773/gffhgf.png">
   <img align="center" alt="rankracerbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
