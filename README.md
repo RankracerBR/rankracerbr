@@ -1,8 +1,6 @@
 <hr />
 
-
-![giphy](https://user-images.githubusercontent.com/101043200/234490864-f80f887d-007c-47a2-90e5-5e9d3ede7b6e.gif)
-
+![bladerunner](https://github.com/RankracerBR/rankracerbr/assets/101043200/36fe0ff8-cf48-437c-8f03-4604d708a7e5)
 
 <p> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3781C8&width=435&lines=Ol%C3%A1!+Sou+Augusto+Pontes+;Desenvolvedor+de+Software+%F0%9F%92%A1"(https://git.io/typing-svg)>
