@@ -18,30 +18,35 @@
 <hr />
 
 <div style="display: inline_block"><br>
-  <h2>Linguagens e Tecnologias: </h2>
+  <h2>-Linguagens e Tecnologias: </h2>
   <img align="center" alt="rankracerbr-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rankracerbr-c++" height="33" width="35" src="https://cdn.discordapp.com/attachments/783795992951652353/1006595555645980773/gffhgf.png">
+  <img align ="center" alt="rankracerbr-java" height="45" width="40" src="https://imgs.search.brave.com/0CM6gcTONyzFIOn1ysOfQ6ZwvC8_EiRKrSLqbOVCzoc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MDk3OWNlZjEw/MTRjMGI1ZTQ5MDEu/cG5n">
+  <img align="center" alt="rankracerbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align ="center" alt="rankracerbr-node" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
+  <img align="center" alt="rankracerbr-django" height="40" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
   <img align="center" alt="rankracerbr-html" height="33" width="35" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
   <img align="center" alt="rankracerbr-css" height="35" width="39" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
-  <img align="center" alt="rankracerbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="rankracerbr-django" height="40" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
   <img align ="center" alt="rankracerbr-linux" height="40" widht="30" src="https://cdn.discordapp.com/attachments/783795992951652353/1075960477441593446/kisspng-tux-racer-t-shirt-linux-kernel-linux-5abe162444c681.0938351815224069482817.png">
   <img align ="center" alt="rankracerbr-aws" height="30" widht="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
-  <img align ="center" alt="rankracerbr-c++" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
-  <img align ="center" alt="rankracerbr-node" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
   <img align ="center" alt="rankracerbr-vercel" height="40" width="90" src="https://www.aitoolsclub.com/content/images/2023/05/Screenshot-2023-05-21-221857.png">
-  <img align ="center" alt="rankracerbr-java" height="45" width="40" src="https://imgs.search.brave.com/0CM6gcTONyzFIOn1ysOfQ6ZwvC8_EiRKrSLqbOVCzoc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MDk3OWNlZjEw/MTRjMGI1ZTQ5MDEu/cG5n">
-    
-  <img align="right" alt="Rank-pic" height="150"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
+  <img align ="center" alt="rankracerbr-docker" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img align="right" alt="Rank-pic" height="140"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
+  <p></p>  
 </div>
-  
-  ##
- 
-<div> 
+
+<div style="display: inline_block"><br>
+    <h2>-Edição: </h2>
+    <img align="center" alt="rankracerbr-vegas" height="45" width="45" src="https://static.wikia.nocookie.net/logo_editing/images/2/28/Vegas_Pro_17_icon_%28MAGIX%29.png/revision/latest?cb=20230105192252">
+    <img align="center" alt="rankracerbr-canvas" height="45" width="45" src="https://i.pinimg.com/originals/7f/29/5f/7f295feeaae4b4fedcba23acbb7fec30.png">
+    <img align="center" alt="rankracerbr-capcut" height="45" width="45" src="https://i.pinimg.com/originals/fe/97/3e/fe973ef75e14e96c5fc5cdf4fcdc0ef4.jpg">
+</div>
+
+
+<div style="display: inline_block"><br>
+  <h2>-Redes: </h2>
   <a href="https://www.instagram.com/rankracerbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-pontes-123886234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
 </div>
 
 <hr />
