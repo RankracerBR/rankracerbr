@@ -30,6 +30,7 @@
   <img align ="center" alt="rankracerbr-c++" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align ="center" alt="rankracerbr-node" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
   <img align ="center" alt="rankracerbr-vercel" height="40" width="90" src="https://www.aitoolsclub.com/content/images/2023/05/Screenshot-2023-05-21-221857.png">
+  <img align ="center" alt="rankracerbr-java" height="45" width="40" src="https://imgs.search.brave.com/0CM6gcTONyzFIOn1ysOfQ6ZwvC8_EiRKrSLqbOVCzoc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MDk3OWNlZjEw/MTRjMGI1ZTQ5MDEu/cG5n">
     
   <img align="right" alt="Rank-pic" height="150"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
 </div>
