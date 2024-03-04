@@ -31,6 +31,7 @@
   <img align ="center" alt="rankracerbr-aws" height="30" widht="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
   <img align ="center" alt="rankracerbr-vercel" height="40" width="90" src="https://www.aitoolsclub.com/content/images/2023/05/Screenshot-2023-05-21-221857.png">
   <img align ="center" alt="rankracerbr-docker" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img align ="center" alt="rankracerbr-postgres" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png">
   <img align="right" alt="Rank-pic" height="140"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
   <p></p>  
 </div>
