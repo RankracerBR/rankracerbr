@@ -32,7 +32,7 @@
   <img align ="center" alt="rankracerbr-vercel" height="40" width="90" src="https://www.aitoolsclub.com/content/images/2023/05/Screenshot-2023-05-21-221857.png">
   <img align ="center" alt="rankracerbr-docker" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align ="center" alt="rankracerbr-postgres" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png">
-  <img align="right" alt="Rank-pic" height="140"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783795992951652353/1006585055264645200/download20220801192736.png">
+  <img align="right" alt="Rank-pic" height="140"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/850363834790445117/1218365435653652490/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3738333739353939323935313635323335332f313030363538353035353236343634353230302f646f776e6c6f616432303232303830313139323733362e706e67.png?ex=6607663b&is=65f4f13b&hm=37b2a712505c70474dffe9bb65cc32d66f08afc412907b7e6a9704396e6fc154&">
   <p></p>  
 </div>
 
