@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
   <h2>-Linguagens e Tecnologias: </h2>
   <img align="center" alt="rankracerbr-phyton" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="rankracerbr-c++" height="42" width="40" src="https://cdn.discordapp.com/attachments/783795992951652353/1006595555645980773/gffhgf.png">
+  <img align="center" alt="rankracerbr-c++" height="42" width="38" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png">
   <img align ="center" alt="rankracerbr-java" height="45" width="40" src="https://imgs.search.brave.com/0CM6gcTONyzFIOn1ysOfQ6ZwvC8_EiRKrSLqbOVCzoc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MDk3OWNlZjEw/MTRjMGI1ZTQ5MDEu/cG5n">
   <img align="center" alt="rankracerbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align ="center" alt="rankracerbr-node" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
