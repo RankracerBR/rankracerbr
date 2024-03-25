@@ -27,7 +27,7 @@
   <img align="center" alt="rankracerbr-django" height="40" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
   <img align="center" alt="rankracerbr-html" height="33" width="35" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
   <img align="center" alt="rankracerbr-css" height="35" width="39" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
-  <img align ="center" alt="rankracerbr-linux" height="40" widht="30" src="https://imgs.search.brave.com/jZPDkfTwMqFA3rDUiTGcXPbkNtmaA1efE7VpTbM66gs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9icmFu/ZGl0ZWNodHVyZS5h/Z2VuY3kvYnJhbmQt/bG9nb3Mvd3AtY29u/dGVudC91cGxvYWRz/L3dwZG0tY2FjaGUv/TGludXgtOTAweDAu/cG5n">
+  <img align ="center" alt="rankracerbr-ubuntu" height="40" widht="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png">
   <img align ="center" alt="rankracerbr-aws" height="30" widht="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
   <img align ="center" alt="rankracerbr-vercel" height="40" width="90" src="https://www.aitoolsclub.com/content/images/2023/05/Screenshot-2023-05-21-221857.png">
   <img align ="center" alt="rankracerbr-docker" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
