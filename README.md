@@ -29,12 +29,13 @@
   <img align="center" alt="rankracerbr-css" height="35" width="39" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
   <img align ="center" alt="rankracerbr-ubuntu" height="40" widht="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png">
   <img align ="center" alt="rankracerbr-aws" height="30" widht="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
-  <img align ="center" alt="rankracerbr-vercel" height="40" width="90" src="https://www.aitoolsclub.com/content/images/2023/05/Screenshot-2023-05-21-221857.png">
+  <img align ="center" alt="rankracerbr-vercel" height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821">
   <img align ="center" alt="rankracerbr-docker" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align ="center" alt="rankracerbr-postgres" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png">
   <img align ="center" alt="rankracerbr-android-studio" height="35" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png">
   <img align ="center" alt="rankracerbr-gcp" height="35" width="40" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
   <img align ="center" alt="rankracerbr-firebase" height="35" width="45" src="https://cdn.freebiesupply.com/logos/thumbs/2x/firebase-1-logo.png">
+  <img align ="center" alt="rankracerbr-render" height="45" width="90" src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png">
   <p></p>  
 </div>
 
