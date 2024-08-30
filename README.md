@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/81be5ec2-1871-4715-8309-328bb09cf55e" alt="BLkE GIF" width="1000" height="400">
+
 <hr />
 
 ![bladerunner](https://github.com/RankracerBR/rankracerbr/assets/101043200/36fe0ff8-cf48-437c-8f03-4604d708a7e5)
@@ -54,3 +56,5 @@
 </div>
 
 <hr />
+
+<img src="https://github.com/user-attachments/assets/81be5ec2-1871-4715-8309-328bb09cf55e" alt="BLkE GIF" width="1000" height="400">
