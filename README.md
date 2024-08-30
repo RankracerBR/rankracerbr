@@ -3,8 +3,8 @@
 ![bladerunner](https://github.com/RankracerBR/rankracerbr/assets/101043200/36fe0ff8-cf48-437c-8f03-4604d708a7e5)
 
 <p> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3C11F7&background=472DFF00&width=435&lines=Ol%C3%A1%2C+sou+Augusto+Pontes;Desenvolvedor+de+Software+e+Cientista+de+Dados" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11C4F7&width=435&lines=Hello%2C+Im+Augusto+Pontes;Software+Developer+%26+Data+Scientist" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11C4F7&width=435&lines=Ol%C3%A1%2C+sou+Augusto+Pontes;Desenvolvedor+de+Software;e+Cientista+de+Dados" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=73F7F6&width=435&lines=Hello%2C+I'm+Augusto+Pontes;Software+Developer;and+Data+Scientist" alt="Typing SVG" /></a>
  </p>
 
 <hr />
