@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/81be5ec2-1871-4715-8309-328bb09cf55e" alt="BLkE GIF" width="1000" height="400">
+<img src="https://github.com/user-attachments/assets/81be5ec2-1871-4715-8309-328bb09cf55e" alt="BLkE GIF" width="1000" height="150">
 
 <hr />
 
@@ -57,4 +57,4 @@
 
 <hr />
 
-<img src="https://github.com/user-attachments/assets/81be5ec2-1871-4715-8309-328bb09cf55e" alt="BLkE GIF" width="1000" height="400">
+<img src="https://github.com/user-attachments/assets/81be5ec2-1871-4715-8309-328bb09cf55e" alt="BLkE GIF" width="1000" height="150">
