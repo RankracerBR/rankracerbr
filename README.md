@@ -3,8 +3,8 @@
 <hr />
 
 <p> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11C4F7&width=435&lines=Ol%C3%A1%2C+sou+Augusto+Pontes;Desenvolvedor+de+Software;e+Cientista+de+Dados" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=73F7F6&width=435&lines=Hello%2C+I'm+Augusto+Pontes;Software+Developer;and+Data+Scientist" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11C4F7&width=435&lines=Ol%C3%A1%2C+sou+Augusto+Pontes;Desenvolvedor+de+Software;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=73F7F6&width=435&lines=Hello%2C+I'm+Augusto+Pontes;Software+Developer;" alt="Typing SVG" /></a>
  </p>
 
 <hr />
