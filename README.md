@@ -42,7 +42,7 @@
   <h2>Back-End</h2>
     <p align="left">
       <img 
-        src="https://skillicons.dev/icons?i=python,django,cpp,java,nodejs" 
+        src="https://skillicons.dev/icons?i=python,django,cpp,java,nodejs,golang" 
       />
     </p>
   <h2>Front-End</h2>
