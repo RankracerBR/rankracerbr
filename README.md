@@ -9,12 +9,23 @@
 
 <hr />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustoPontes1&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustoPontes1&theme=tokyonight"
+    width="100%"
+  />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AugustoPontes1&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AugustoPontes1&theme=tokyonight)
-
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AugustoPontes1&theme=tokyonight"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AugustoPontes1&theme=tokyonight"
+    width="49%"
+  />
+</p>
 <hr />
 
 <section>
